@@ -1,7 +1,7 @@
 # pihole-browser-games-blocklist
 a pihole blocklist for online games
 
-you can add this list to your pihole via one of the below links (only one needed)
+add this list to your pihole under the adlists section via one of the links below
 
 https://static.mchost.fun/public/online-games.txt
 
