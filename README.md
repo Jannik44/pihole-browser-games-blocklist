@@ -6,3 +6,5 @@ add this list to your pihole under the adlists section via one of the links belo
 https://static.mchost.fun/public/online-games.txt
 
 https://raw.githubusercontent.com/Jannik44/pihole-browser-games-blocklist/main/online-games.txt
+
+you can generate your own list easily with the domainsyntax.sh bash script
